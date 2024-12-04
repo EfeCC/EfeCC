@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EfeCC
-- 👀 I’m interested in mobile application 
-- 🌱 I’m currently learning kotlin and java 
+- 👀 I’m interested programming and cyber security
+- 🌱 I’m mid level at python,c++,java and kotlin 
 - 📫You can reach me on cakmak.efekemal@gmail.com
 
 <!---
